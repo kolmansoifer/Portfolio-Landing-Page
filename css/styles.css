@@ -11,3 +11,7 @@ div.a {
   border-color: darkmagenta;
   margin: 20px;
 }
+
+.highlight {
+  color: red;
+}
