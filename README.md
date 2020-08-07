@@ -3,7 +3,7 @@
 ### HTML and CSS excersice for Epicodus, 08.07.2020 ###
 
 
-## By Kolman Soifer ##
+### By Kolman Soifer ###
 
 ## Description ##
 
@@ -25,4 +25,4 @@
 ### Copyright (c) 2020 Kolman Soifer
 ### This software is licensed under the MIT license ###
 
-## https://kolmansoifer.github.io/Portfolio-Landing-Page/ ##
+#### https://kolmansoifer.github.io/Portfolio-Landing-Page/ ####
