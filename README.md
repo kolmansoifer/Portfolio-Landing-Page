@@ -6,7 +6,7 @@
 
 ## Description ##
 
-### A page to showcase my coding progress during my time at Epicodus.  Scroll through for links to my other projects and some pictures of my family and friends###
+### A page to showcase my coding progress during my time at Epicodus.  Scroll through for links to my other projects and some pictures of my family and friends ###
 
 ## Setup ##
 
@@ -14,7 +14,7 @@
 
 ## Technologies Used ##
 
-### HTML, CSS, Git, Github
+### HTML, CSS, Git, Github, VS Code ###
 
 ## Legal ##
 
