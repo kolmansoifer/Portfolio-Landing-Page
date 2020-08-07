@@ -7,11 +7,22 @@
 
 div.a {
   text-align: center;
-  border-style: solid;
+  border-style: ridge;
   border-color: darkmagenta;
+  border-width: 20px;
   margin: 20px;
 }
 
 .highlight {
   color: red;
+}
+
+div.b {
+  text-align: left;
+  border-style: ridge;
+  border-color: red;
+  margin: 50px;
+  width: 30%;
+  padding: 20px;
+  border-width: 10px;
 }
