@@ -4,6 +4,10 @@
   margin-right: auto;
   width: 20%;
 }
+
 div.a {
   text-align: center;
+  border-style: solid;
+  border-color: darkmagenta;
+  margin: 20px;
 }
